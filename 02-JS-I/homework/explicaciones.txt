@@ -1,0 +1,5 @@
+Variables: es una cosa donde podemos guardar lo que querramos (numeros, texto, etc)
+Strings: es sinonimo de texto
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false): es el lenguaje propio de las computadoras. Toma dos valores: 1 es verdadero y 0 es falso.
