@@ -1,0 +1,12 @@
+# Homework: Javascript II
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` Es un comando que sirve ejecutar una accion repetidas veces, siempre y cuando se cumpla una condicion determinada.
+* `&&`: es un operador logico igual a 'Y'. Devuelve verdadero si todas las expresiones son verdaderas
+* `||`: es un operador logico igual a 'o'. Devuelve verdadero si al menos una de las expresiones es verdadera
+* `!`: es un operador logico que niega lo que sigue.
+
