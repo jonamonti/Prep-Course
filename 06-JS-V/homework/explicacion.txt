@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero 
+en tu comprensión.
+
+prototype: un prototipo es objeto que tiene muchos metodos ya programados, para que no tengamos 
+que hacerlos cada vez que los necesitemos 
+
+Constructors (de Clases): es una funcion que nos permite escalar la construccion de objetos que tienen los mismos atributos.
